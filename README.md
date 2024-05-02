@@ -1,7 +1,10 @@
 ## Чекбокс / Селект / Scroll / Map / Tooltip / Валидация форм    
 
 ***
- 
+<img width="1294" alt="Снимок экрана 2024-05-02 в 17 49 40" src="https://github.com/Frontess/Knowledge-base/assets/127450758/c6d4a83a-8778-40f5-9098-9283a5bbeba9">
+
+<img width="1409" alt="Снимок экрана 2024-05-02 в 17 48 56" src="https://github.com/Frontess/Knowledge-base/assets/127450758/ca4e920a-c448-4852-ac93-112ecab8ae96">
+
 :one: Чекбокс - это представление вариантов для выбора ответа. Работает тег `<input>` с типом `checkbox`.
 
 :two: Селект - элемент интерфейса в виде раскрывающегося списка. Работает тег `<select>`.
